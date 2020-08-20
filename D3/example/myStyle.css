@@ -1,0 +1,23 @@
+h1 {
+    font-size: 40xp;
+}
+
+#pepe {
+    color: blue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace; color: green;
+}
+
+table {
+    color: green;
+}
+
+.dsr {
+    color: yellow;
+}
+
+.info {
+    font-size: 60; color: teal; font-family: 'Times New Roman', Times, serif;
+}
